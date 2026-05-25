@@ -1,9 +1,8 @@
-# php-old-sdk (dummy)
+# php-old-sdk
 
-Maps to: **https://github.com/Abhi591/php-old-sdk**
+**Packagist:** `abhi591/php-old-sdk`  
+**GitHub:** https://github.com/Abhi591/php-old-sdk
 
-Composer package name: `vwo/vwo-fme-php-sdk` (test only).
+PHP namespace `vwo\` (dummy shim). Requires **`abhi591/php-new-sdk`**.
 
-Requires `wingify/wingify-fme-php-sdk` from the **php-new-sdk** repo.
-
-Push this folder to GitHub — see [../two-repo-e2e-test/README.md](../two-repo-e2e-test/README.md).
+See [../two-repo-e2e-test/PACKAGIST.md](../two-repo-e2e-test/PACKAGIST.md).

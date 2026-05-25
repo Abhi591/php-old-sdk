@@ -1,12 +1,12 @@
 {
-    "name": "vwo/vwo-fme-php-sdk",
-    "description": "Dummy VWO shim — two-repo E2E test only (no real SDK)",
-    "version": "1.0.0",
+    "name": "abhi591/php-old-sdk",
+    "description": "Dummy VWO shim for two-repo + Packagist E2E test",
+    "version": "1.0.1",
     "type": "library",
     "license": "Apache-2.0",
     "require": {
         "php": ">=7.0",
-        "wingify/wingify-fme-php-sdk": "^1.0"
+        "abhi591/php-new-sdk": "^1.0"
     },
     "autoload": {
         "psr-4": {
