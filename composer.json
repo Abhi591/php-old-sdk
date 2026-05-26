@@ -1,16 +1,16 @@
 {
-  "name": "abhi591/php-old-sdk",
-  "description": "Dummy VWO shim for two-repo + Packagist E2E test",
-  "version": "1.8.0",
-  "type": "library",
-  "license": "Apache-2.0",
-  "require": {
-    "php": ">=7.0",
-    "abhi591/php-new-sdk": "^2.0"
-  },
-  "autoload": {
-    "psr-4": {
-      "vwo\\": "src/"
+    "name": "abhi591/php-old-sdk",
+    "version": "1.9.0",
+    "keywords": ["vwo", "fme", "sdk", "e2e-test"],
+    "license": "Apache-2.0",
+    "description": "E2E test package: real VWO legacy shim (packages/vwo-legacy-shim) under abhi591/php-old-sdk — not production vwo/vwo-fme-php-sdk",
+    "require": {
+        "php": ">=7.0",
+        "abhi591/php-new-sdk": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vwo\\": "src/"
+        }
     }
-  }
 }
