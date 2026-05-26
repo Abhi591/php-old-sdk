@@ -1,7 +1,7 @@
 {
   "name": "abhi591/php-old-sdk",
   "description": "Dummy VWO shim for two-repo + Packagist E2E test",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "type": "library",
   "license": "Apache-2.0",
   "require": {
